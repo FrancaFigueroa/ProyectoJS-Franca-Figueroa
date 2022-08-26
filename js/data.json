@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title" : "Card title 1",
+        "precio" : 5,
+        "description" : "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "img" : "img/imagen-1.webp"
+    },
+    {
+        "id": 2,
+        "title" : "Card title 2",
+        "precio" : 5,
+        "description" : "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "img" : "img/imagen-2.webp"
+    },
+    {
+        "id": 3,
+        "title" : "Card title 3",
+        "precio" : 5,
+        "description" : "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "img" : "img/imagen-3.webp"
+    },
+    {
+        "id": 4,
+        "title" : "Card title 4",
+        "precio" : 5,
+        "description" : "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "img" : "img/imagen-2.webp"
+    },
+    {
+        "id": 5,
+        "title" : "Card title 5",
+        "precio" : 5,
+        "description" : "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "img" : "img/imagen-3.webp"
+    },
+    {
+        "id": 6,
+        "title" : "Card title 6",
+        "precio" : 5,
+        "description" : "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "img" : "img/imagen-4.webp"
+    },
+    {
+        "id": 6,
+        "title" : "Card title 7",
+        "precio" : 5,
+        "description" : "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "img" : "img/imagen-7.webp"
+    },
+    {
+        "id": 6,
+        "title" : "Card title 8",
+        "precio" : 5,
+        "description" : "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "img" : "img/imagen-8.webp"
+    }
+]
