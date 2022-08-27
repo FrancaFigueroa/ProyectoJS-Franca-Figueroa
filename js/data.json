@@ -42,14 +42,14 @@
         "img" : "img/imagen-4.webp"
     },
     {
-        "id": 6,
+        "id": 7,
         "title" : "Card title 7",
         "precio" : 5,
         "description" : "Some quick example text to build on the card title and make up the bulk of the card's content.",
         "img" : "img/imagen-7.webp"
     },
     {
-        "id": 6,
+        "id": 8,
         "title" : "Card title 8",
         "precio" : 5,
         "description" : "Some quick example text to build on the card title and make up the bulk of the card's content.",
